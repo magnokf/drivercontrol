@@ -11,7 +11,7 @@ $pay = new \Source\Models\Payment;
 
 $plan = [
     'plan_id' => 1,
-    //'plan_code_pagseguro' => 'CODIGO DO PLANO AQUI',
+    //'plan_code_pagseguro' => 'CODIGO DO PLANO AQUI filho',
     'plan_title' => 'Meu Plano Teste',
     'plan_price' => '250.00',
     'plan_active' => 1,
